@@ -63,11 +63,24 @@ enthusiasm of middle-school students diminished most of the barriers found.". [@
 13. "Teachers believed that AR mainly increases students’ interest and engagement as well
 as it facilitates students’ interaction, understanding, exploration, explanation and experiences that previously were not possible. In addition, they considered that AR supports
 and facilitates interactive learning and experiential learning as well as visualization and
-teaching topics that previously were not possible" [@TeachersAR2023]
+teaching topics that previously were not possible" [@TeachersAR2023, pp.14]
 
 14. "On the other hand, these teachers believed that the cost of buying and maintaining
 AR equipment and resources as well as the lack of AR educational content and resources
-prevent the integration of ARinE" [@TeachersAR2023]
+prevent the integration of ARinE" [@TeachersAR2023, pp.14]
+
+15. "One type of AR technologies includes a head-mounted display and/or an additional backpack with computer equipment. The cumbersome and expensive design could cause problems such as discomfort and poor depth perception (Kerawalla et al., 2006). To avoid these problems, current development of AR systems adopts portable technologies that are less obtrusive and enhance a sense of immersion and presence." [@WU2013]
+
+16. "Our analyses and discussions of empirical studies in AR indicated that while augmented reality can be created by integrating multiple technologies and has a great potential to support learning and teaching, there are various issues to consider when AR is implemented in educational settings." [@WU2013]
+
+17. "The t-test result of their post-test scores indicates that the learners' knowledge related to elastic collision was significantly improved by using the developed AR Physics system." [@Lin2013]
+
+18. "The results indicate that the implementation of new technologies in education of virtual and augmented reality improve interactivity and student interest in mathematics education, contributing to more efficient learning and understanding of mathematical concepts when compared to traditional teaching methods." [@Demitriadou2019]
+
+19. "Prior to using the AR technology in the
+learning environment, researchers are encouraged to plan well-structured teaching and learning components encompassing (1) students’ needs, (2) learning objectives, (3 ) the forms of support such as equipment, and (4) the types of learning strategies that suit students’ needs" [@ARStrategies2020]
+
+20. "the technologies used in particular Augmented Reality must be integrated with appropriate learning strategies for the purpose of making an impact on improving the quality of the learning process. The selection of appropriate learning strategies can influence the success and effectiveness of the technology support used, such as Augmented Reality in education." [@ARStrategies2020]
 
 # Resultados
 
