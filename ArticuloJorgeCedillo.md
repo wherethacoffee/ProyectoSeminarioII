@@ -4,11 +4,13 @@ author: "Jorge de Jesús Cedillo Gutiérrez"
 date: "2023-09-28"
 institution: "Universidad Autónoma de Coahuila"
 ---
-\newpage
+\pagebreak
 
 # Introducción
 
-Se desarrolla una investigación referente a la realidad aumentada y realidad virtual como impulso a la educación de los estudiantes más jóvenes.
+La educación es un pilar fundamental en el desarrollo de la sociedad, y en la era digital en la que vivimos, la integración de tecnologías innovadoras se ha convertido en una oportunidad clave para enriquecer la experiencia de aprendizaje de los estudiantes más jóvenes. En este contexto, la realidad aumentada y la realidad virtual han surgido como herramientas prometedoras que pueden transformar la forma en que los estudiantes interactúan con el conocimiento.
+
+El presente estudio busca abordar las implicaciones y posibilidades que ofrecen la realidad aumentada y la realidad virtual en el contexto educativo. A través de una revisión exhaustiva de la literatura existente, se analizarán casos de estudio, investigaciones y enfoques pedagógicos que han empleado estas tecnologías con el objetivo de mejorar el proceso de enseñanza-aprendizaje. Además, se examinarán las tendencias emergentes y las perspectivas futuras en este campo, con el propósito de proporcionar una visión completa y actualizada de cómo la realidad aumentada y virtual están influyendo en la educación de los jóvenes estudiantes.
 
 # Método
 
@@ -19,6 +21,8 @@ Se realizó una búsqueda de artículos con las palabras clave:
 - ¿Qué es la realidad aumentada?
 
 Y se clasificaron los resultados de acuerdo a lo siguiente...
+
+## Realidad aumentada
 
 1. "Los elementos motivacionales del uso de
 la tecnología están ya suficientemente probados como para quedar fuera de discusión
@@ -82,8 +86,10 @@ learning environment, researchers are encouraged to plan well-structured teachin
 
 20. "the technologies used in particular Augmented Reality must be integrated with appropriate learning strategies for the purpose of making an impact on improving the quality of the learning process. The selection of appropriate learning strategies can influence the success and effectiveness of the technology support used, such as Augmented Reality in education." [@ARStrategies2020]
 
+21. 
+
 # Resultados
 
-Se encontraron 6 artículos referentes al tema, entre los cuales, destaca la postura o iniciativa de tecnología en la que se describe un método como lo plantean los autores x, y, y z. A partir de lo cual, se reconoce que...
+Se encontraron 20 artículos referentes al tema, entre los cuales, destaca la postura o iniciativa de tecnología en la que se describe un método como lo plantean los autores x, y, y z. A partir de lo cual, se reconoce que...
 
 # Bibliografía
