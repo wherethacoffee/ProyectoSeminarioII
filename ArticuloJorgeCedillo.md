@@ -2,6 +2,7 @@
 title: "Revisión de la realidad aumentada y realidad virtual como impulso a la educación de los estudiantes más jóvenes"
 author: "Jorge de Jesús Cedillo Gutiérrez"
 date: "2023-09-28"
+abstract: "Este artículo presenta una revisión exhaustiva de la literatura existente sobre la integración de la realidad aumentada y la realidad virtual en el ámbito educativo. Se analizan casos de estudio, investigaciones y enfoques pedagógicos que han empleado estas tecnologías con el objetivo de mejorar el proceso de enseñanza-aprendizaje. Además, se exploran tendencias emergentes y perspectivas futuras en este campo. La revisión destaca el impacto positivo de la realidad aumentada y virtual en la motivación de los estudiantes, el compromiso y la comprensión de los conceptos. Se discuten los desafíos y las oportunidades que estas tecnologías presentan en el contexto educativo y se subraya la importancia de su implementación adecuada."
 numbersections: true
 geometry: 
 - top=30mm
@@ -10,10 +11,9 @@ geometry:
 - bottom=30mm
 header-includes:
 - \usepackage{fancyhdr}
-- \usepackage{titlesec}
 - \pagestyle{fancy}
-- \lhead{Universidad Autónoma de Coahuila}
-- \rhead{Jorge de Jesús Cedillo Gutiérrez}
+- \rhead{Universidad Autónoma de Coahuila (2023)}
+- \lhead{Cedillo, Jorge de Jesús}
 ---
 \newpage
 \tableofcontents
@@ -35,7 +35,11 @@ Se realizó una búsqueda de artículos con las palabras clave:
 
 Y se clasificaron los resultados de acuerdo a lo siguiente...
 
+# Revisión de la literatura
+
 ## Realidad aumentada
+
+### Realidad aumentada como impacto positivo en la educación
 
 >1. "Los elementos motivacionales del uso de
 la tecnología están ya suficientemente probados como para quedar fuera de discusión
@@ -99,11 +103,35 @@ learning environment, researchers are encouraged to plan well-structured teachin
 
 >20. "The technologies used in particular Augmented Reality must be integrated with appropriate learning strategies for the purpose of making an impact on improving the quality of the learning process. The selection of appropriate learning strategies can influence the success and effectiveness of the technology support used, such as Augmented Reality in education." [@ARStrategies2020]
 
->21. 
+>21. "Una aplicación de contenidos multimedia basada en Realidad Aumentada requiere
+realizar los siguientes pasos: a) diseño de la aplicación y de los contenidos, b)
+generación de los contenidos y c) desarrollo de la aplicación en la plataforma de
+Realidad Aumentada (AMIRE)". [@basogain2007realidad]
+
+>22. "La Realidad Aumentada establecerá un puente entre los conceptos teóricos y la
+realización física de los experimentos con los dispositivos reales. El sistema mediante
+una cámara captura la imagen del dispositivo real (por ejemplo un circuito electrónico)
+y mostrará al alumno en la pantalla del ordenador el dispositivo real con información
+adicional. La información virtual añadida a la imagen real estará relacionada con los
+conceptos teóricos del dispositivo real y se presentará en un formato 2D, 3D, video,
+audio o texto entre otros". [@basogain2007realidad]
+
+>23. "a longer AR intervention is likely to result in higher
+positive responses, such as higher learning motivation or better learning attitude, and higher learning achievements, such as learned
+knowledge and skill." [@Chang2022]
+
+>24. "Use of AR in language or social studies learning is
+more likely to result in higher positive responses than use of AR in science learning. The reason conjectured for this finding may relate
+to the nature of different subject areas and how AR may provide different degrees of senses of innovative experiences for a subject area,
+but this conjecture requires future investigation" [@Chang2022]
+
+>25. "it was found that using refined or innovative AR interventions can further promote students’ positive responses by
+another small effect size, and enhance students’ knowledge and skill by another medium effect size, when compared to original or
+regular AR interventions." [@Chang2022]
 
 # Resultados
 
-Se encontraron 20 artículos referentes al tema, entre los cuales, destaca la postura o iniciativa de tecnología en la que se describe un método como lo plantean los autores x, y, y z. A partir de lo cual, se reconoce que...
+Se encontraron 25 artículos referentes al tema, entre los cuales, destaca la postura o iniciativa de tecnología en la que se describe un método como lo plantean los autores x, y, y z. A partir de lo cual, se reconoce que...
 
 
 # Bibliografía
