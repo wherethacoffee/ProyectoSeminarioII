@@ -1,0 +1,29 @@
+/* estilos.css */
+.portada {
+    text-align: center;
+    margin: 3em 0;
+}
+
+.titulo-portada {
+    font-size: 28px;
+    font-weight: bold;
+}
+
+.autor, .fecha, .institucion {
+    font-size: 16px;
+}
+
+.autor::before {
+    content: "Autor: ";
+    font-weight: bold;
+}
+
+.fecha::before {
+    content: "Fecha: ";
+    font-weight: bold;
+}
+
+.institucion::before {
+    content: "Institución: ";
+    font-weight: bold;
+}
