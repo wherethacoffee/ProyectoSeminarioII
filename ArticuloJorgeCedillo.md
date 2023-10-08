@@ -125,13 +125,44 @@ more likely to result in higher positive responses than use of AR in science lea
 to the nature of different subject areas and how AR may provide different degrees of senses of innovative experiences for a subject area,
 but this conjecture requires future investigation" [@Chang2022]
 
->25. "it was found that using refined or innovative AR interventions can further promote students’ positive responses by
+>25. "It was found that using refined or innovative AR interventions can further promote students’ positive responses by
 another small effect size, and enhance students’ knowledge and skill by another medium effect size, when compared to original or
 regular AR interventions." [@Chang2022]
 
+>26. "From the data analyzed, we also highlight that once the availability of resources, class planning and initial teacher training are overcome, augmented reality provides benefits and advantages centered on pedagogies that allow for greater enthusiasm on the part of the students, with significant advantages in creativity, innovation, participation, and especially in the motivation of participants." [@Sáez-López2020]
+
+>27. "Visual education has many advantages, such as learning faster, memorability and in terms of paper expenses. The visual animations and presentations have become a very important material in higher education in recent years along with the development of computer technologies." [@Yaman2016]
+
+>28. "It can be easily preferred and applied in the departments such as Chemistry, Biology and Geography in the field of Science. The unclarity of images used in courses leads to ambiguity. In this study, image processing based approaches have been developed to ensure more effective learning of the courses in higher education." [@Yaman2016] 
+
+>29. "The capacity to overlay rich media onto the real world for viewing through web-enabled devices such as phones and tablet devices means that information can be made available to students at the exact time and place of need. This has the potential to reduce cognitive overload by providing students with “perfectly situated scaffolding”, as well as enable learning in a range of other ways. " [@Bower2014]
+
+>30. "It was found that augmented reality technologies stimulate the educational process and provide the opportunity to implement knowledge in both humanities and natural sciences. This technology expands the educational process towards clarity and motivates the student to further study the material." [@Gurevych2021]
+
+>31. "The introduction of augmented reality technology makes it possible to improve the quality of education by motivating students to self-study, increasing audience interest in educational material, developing a desire to use modern interactive technical capabilities and technologies, replacing textbooks and laboratory equipment with multimedia computer models." [@Gurevych2021]
+
+>32. "These applications show that augmented reality can be means of enhancing, motivating and stimulating learners’ understanding of certain events, especially those for which the traditional notion of instructional learning have proven inappropriate or difficult. Furthermore, the students can learn in a quick mode by interacting on the augmented environments." [@Gutiérrez2014]
+
+>33. "Se aporta una solución tecnológica móvil de bajo costo, con el fin de innovar el proceso de enseñanza donde los estudiantes podrán acceder a contenidos virtuales en tercera dimensión sobre los temas que están aprendiendo, generando un ambiente de trabajo diferente que motive a los alumnos a aprender." [@Montecé2017]
+
+>34. "La aplicación de la tecnología de la realidad aumentada al proceso de enseñanza-aprendizaje presenta ventajas respecto a los métodos tradicionales de enseñanza. El realismo, interactividad, motivación e interés en aprender son los factores más importantes a destacar, evidenciado en los alumnos a partir del uso de esta herramienta." [@Montecé2017]
+
+>35. "Se considera que la unión de una o varias herramientas a la realidad aumentada podrían generar mejor obtención de resultados independientemente del área de aplicación a la que sea sometida esta tecnología." [@Montecé2017]
+
+>36. "" []
+
+>37. "" []
+
+>38. "" []
+
+>39. "" []
+
+>40. "" []
+
+
 # Resultados
 
-Se encontraron 25 artículos referentes al tema, entre los cuales, destaca la postura o iniciativa de tecnología en la que se describe un método como lo plantean los autores x, y, y z. A partir de lo cual, se reconoce que...
+Se encontraron 40 artículos referentes al tema, entre los cuales, destaca la postura o iniciativa de tecnología en la que se describe un método como lo plantean los autores x, y, y z. A partir de lo cual, se reconoce que...
 
 
 # Bibliografía
