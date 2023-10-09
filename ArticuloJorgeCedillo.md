@@ -37,9 +37,29 @@ Y se clasificaron los resultados de acuerdo a lo siguiente...
 
 # Revisión de la literatura
 
-## Realidad aumentada
+## Realidad Aumentada
 
-### Realidad aumentada como impacto positivo en la educación
+### Beneficios de la Realidad Aumentada en la educación
+
+
+
+### Desafíos y Limitaciones de la Realidad Aumentada en la Educación
+
+
+
+### Impacto en la Enseñanza y el Aprendizaje
+
+
+
+### Motivación y Participación de los Estudiantes
+
+
+
+### Opiniones y Experiencias de los Profesores
+
+
+
+### Comparación entre Realidad Aumentada y Realidad Virtual en Educación
 
 >1. "Los elementos motivacionales del uso de
 la tecnología están ya suficientemente probados como para quedar fuera de discusión
@@ -135,11 +155,11 @@ regular AR interventions." [@Chang2022]
 
 >28. "It can be easily preferred and applied in the departments such as Chemistry, Biology and Geography in the field of Science. The unclarity of images used in courses leads to ambiguity. In this study, image processing based approaches have been developed to ensure more effective learning of the courses in higher education." [@Yaman2016] 
 
->29. "The capacity to overlay rich media onto the real world for viewing through web-enabled devices such as phones and tablet devices means that information can be made available to students at the exact time and place of need. This has the potential to reduce cognitive overload by providing students with “perfectly situated scaffolding”, as well as enable learning in a range of other ways. " [@Bower2014]
+>29. "The capacity to overlay rich media onto the real world for viewing through web-enabled devices such as phones and tablet devices means that information can be made available to students at the exact time and place of need. This has the potential to reduce cognitive overload by providing students with “perfectly situated scaffolding”, as well as enable learning in a range of other ways." [@Bower2014]
 
 >30. "It was found that augmented reality technologies stimulate the educational process and provide the opportunity to implement knowledge in both humanities and natural sciences. This technology expands the educational process towards clarity and motivates the student to further study the material." [@Gurevych2021]
 
->31. "The introduction of augmented reality technology makes it possible to improve the quality of education by motivating students to self-study, increasing audience interest in educational material, developing a desire to use modern interactive technical capabilities and technologies, replacing textbooks and laboratory equipment with multimedia computer models." [@Gurevych2021]
+>31. "The introduction of augmented reality technology makes it possible to improve the quality of education by motivating students to self-study, increasing audience interest in educational material, developing a desire to use modern interactive technical capabilities and technologies, replacing textbooks and laboratory equipment with multimedia computer models."[@Gurevych2021]
 
 >32. "These applications show that augmented reality can be means of enhancing, motivating and stimulating learners’ understanding of certain events, especially those for which the traditional notion of instructional learning have proven inappropriate or difficult. Furthermore, the students can learn in a quick mode by interacting on the augmented environments." [@Gutiérrez2014]
 
@@ -149,16 +169,17 @@ regular AR interventions." [@Chang2022]
 
 >35. "Se considera que la unión de una o varias herramientas a la realidad aumentada podrían generar mejor obtención de resultados independientemente del área de aplicación a la que sea sometida esta tecnología." [@Montecé2017]
 
->36. "" []
+>36. "En el caso de las Ciencias de la Educación llevar a cabo estudios como este presenta como principal limitación, el desconocimiento que tanto docentes en ejercicio como en formación puedan presentar ante las herramientas digitales que van apareciendo en la sociedad y que los estudiantes incorporan a su vida cotidiana de manera natural." [@marin2016]
 
->37. "" []
+>37. "La RA puede provocar en los estudiantes la curiosidad y sorpresa por aprender, elementos claves en la etapa de infantil, momento en el que las actitudes, aptitudes, estereotipos, valores, creencias, etc. van cobrando forma. En consecuencia, es relevante la visión que tienen los maestros en formación en torno a esta herramienta catalogada como emergente ya en 2012" [@marin2016]
 
->38. "" []
+>38. "Results from the survey imply that students show significantly improved results in increasing the interest, understanding and interiorizing the learning material. University teachers found that using augmented reality is significantly improving the learning process of students and their teaching process in a pedagogical and technical sense." [@Rizov2015]
 
->39. "" []
+>39. "Gracias a la realidad aumentada se puede realizar un seguimiento de las partes del   cuerpo,   con   imágenes,   referencias,   añadir   contenidos   multimedia interactivos  para  hacer  la  transferencia  de conocimientos  de  una  manera  más potente." [@morales2016]
 
->40. "" []
+>40. "Las soluciones educativas AR-VR representan una nueva frontera, no sólo en la enseñanza, sino incluso en el trabajo y la investigación. Hay un campo amplio por  descubrir  con  el  fin  de  averiguar  cómo  influyen  estas  aplicaciones  de educativas  interactiva  en  tiempo  real  en  procesos  cognitivos  y  emocionales durante nuestras actividades de aprendizaje." [@morales2016]
 
+## Realidad Virtual
 
 # Resultados
 
