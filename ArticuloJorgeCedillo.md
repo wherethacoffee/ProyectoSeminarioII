@@ -179,11 +179,22 @@ regular AR interventions." [@Chang2022]
 
 >40. "Las soluciones educativas AR-VR representan una nueva frontera, no sólo en la enseñanza, sino incluso en el trabajo y la investigación. Hay un campo amplio por  descubrir  con  el  fin  de  averiguar  cómo  influyen  estas  aplicaciones  de educativas  interactiva  en  tiempo  real  en  procesos  cognitivos  y  emocionales durante nuestras actividades de aprendizaje." [@morales2016]
 
+>41. "La realidad aumentada (RA) mejora el rendimiento de la enseñanza de forma similar a la de los materiales didácticos más utilizados por profesores (tanto libros ilustrados como interacciones físicas). La RA no solo facilita el aprendizaje sino que también incrementa la motivación de los estudiantes de mejor manera que los materiales didácticos previamente mencionados" [@Hung2017Applying]
+
+>42. "La RA es más eficaz como medio de aprendizaje porque los estudiantes pueden ver los objetos reales reproducidos durante el aprendizaje y la práctica. Una mayor investigación y desarrollo hará de la RA una herramienta de aprendizaje más prometedora en el futuro." [@Liono2021]
+
+>43. "Los resultados indicaron que el uso de la tecnología RA puede tener el potencial de mejorar los resultados de aprendizaje de los estudiantes en el nivel de análisis y sus actitudes de aprendizaje hacia la biología, además, los mismos estudiantes mencionaron que la RA podría ser eficaz para mejorar su aprendizaje de biología." [@Weng2020Enhancing]
+
+>44. "Actualmente, la RA es una tecnología popular que se utiliza ampliamente en entornos educativos. Una de las razones más importantes por las que la Realidad Aumentada se utiliza tan ampliamente es que ya no requiere hardware costoso ni equipos sofisticados." [@akcayir2017]
+
+>45. ""
+
+
 ## Realidad Virtual
 
 # Resultados
 
-Se encontraron 40 artículos referentes al tema, entre los cuales, destaca la postura o iniciativa de tecnología en la que se describe un método como lo plantean los autores x, y, y z. A partir de lo cual, se reconoce que...
+Se encontraron 20 artículos referentes al tema, entre los cuales, destaca la postura o iniciativa de tecnología en la que se describe un método como lo plantean los autores x, y, y z. A partir de lo cual, se reconoce que...
 
 
 # Bibliografía
