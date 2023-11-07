@@ -32,6 +32,7 @@ Se realizó una búsqueda de artículos con las palabras clave:
 - Realidad aumentada en la educación
 - Realidad aumentada
 - ¿Qué es la realidad aumentada?
+- Does Augmented Reality (AR) improve learning?
 
 Y se clasificaron los resultados de acuerdo a lo siguiente...
 
@@ -175,9 +176,7 @@ regular AR interventions." [@Chang2022]
 
 >38. "Results from the survey imply that students show significantly improved results in increasing the interest, understanding and interiorizing the learning material. University teachers found that using augmented reality is significantly improving the learning process of students and their teaching process in a pedagogical and technical sense." [@Rizov2015]
 
->39. "Gracias a la realidad aumentada se puede realizar un seguimiento de las partes del   cuerpo,   con   imágenes,   referencias,   añadir   contenidos   multimedia interactivos  para  hacer  la  transferencia  de conocimientos  de  una  manera  más potente." [@morales2016]
-
->40. "Las soluciones educativas AR-VR representan una nueva frontera, no sólo en la enseñanza, sino incluso en el trabajo y la investigación. Hay un campo amplio por  descubrir  con  el  fin  de  averiguar  cómo  influyen  estas  aplicaciones  de educativas  interactiva  en  tiempo  real  en  procesos  cognitivos  y  emocionales durante nuestras actividades de aprendizaje." [@morales2016]
+>39. "Las soluciones educativas AR-VR representan una nueva frontera, no sólo en la enseñanza, sino incluso en el trabajo y la investigación. Hay un campo amplio por  descubrir  con  el  fin  de  averiguar  cómo  influyen  estas  aplicaciones  de educativas  interactiva  en  tiempo  real  en  procesos  cognitivos  y  emocionales durante nuestras actividades de aprendizaje." [@morales2016]
 
 >41. "La realidad aumentada (RA) mejora el rendimiento de la enseñanza de forma similar a la de los materiales didácticos más utilizados por profesores (tanto libros ilustrados como interacciones físicas). La RA no solo facilita el aprendizaje sino que también incrementa la motivación de los estudiantes de mejor manera que los materiales didácticos previamente mencionados" [@Hung2017Applying]
 
@@ -187,8 +186,29 @@ regular AR interventions." [@Chang2022]
 
 >44. "Actualmente, la RA es una tecnología popular que se utiliza ampliamente en entornos educativos. Una de las razones más importantes por las que la Realidad Aumentada se utiliza tan ampliamente es que ya no requiere hardware costoso ni equipos sofisticados." [@akcayir2017]
 
->45. ""
+>45. "Cuando los estudiantes y profesores no se enfrentan a un espacio plano o puramente tridimensional, sino a un entorno de aprendizaje integrado por objetos virtuales y escenas reales, al igual que la realidad aumentada, los medios tradicionales de interacción pueden no adaptarse. Pero también proporciona más espacio para explorar, como por ejemplo cómo establecer el contenido del curso mediante la teoría de la cognición situada y la teoría de las actividades de aprendizaje en el entorno de la fusión virtual-real, cómo crear actividades de enseñanza, cómo la comunicación entre los estudiantes puede ser más directa, cómo construir el modelo de experiencia de aprendizaje de los usuarios y el modelo de comportamiento interactivo, todos estos problemas esperan que los desarrolladores y usuarios del entorno de aprendizaje de realidad aumentada los exploren."[@Zheng2015Research]
 
+>46. "Igualmente encontramos el proyecto “APRENDRA”,  desarrollado  por El  grupo de Gráficos y Multimedia del Instituto de Automática  e Informática Industrial (ai2) y l'Escola  d'Estiu de la  Universidad Politécnica de Valencia, junto con el Instituto Tecnológico del Juguete (AIJU) de Ibi(Alicante). Aquí se pretende utilizar la tecnología de Realidad Aumentada para elaborar juegos educativos para el aula mediante la fórmula educación  +  entretenimiento conocida como “edutainment”. Los primeros  resultados han consistido en implementar una aplicación para iphone en la que a través de unos marcadores, es posible  observar  a  través de la pantalla diferentesmodelos virtuales 3D que se corresponden con la flora, fauna y monumentos de Asia, África y América Central y del Sur(Aprendra, 2010). La aplicación ha sido testada con alumnos de tercero y cuarto de Educación Primaria,  para los que se han desarrollado diferentes juegos educativos  que utilizan la tecnología de Realidad Aumentada para favorecer  la  interacción entre el niño y los modelos virtuales." [@Torres2011realidad]
+
+>47. "Aunque las investigaciones han indicado que la instrucción facilitada por la realidad aumentada (RA) mejora el rendimiento del aprendizaje, se recomienda realizar más investigaciones sobre la utilidad de la RA desde una perspectiva psicológica. Los investigadores consideran que la presencia es un efecto psicológico importante cuando los usuarios están inmersos en entornos de realidad virtual. Sin embargo, la mayoría de las investigaciones sobre la presencia de estudiantes se han centrado en medirla más que en los factores que la influyen."[@Chen2018Learner]
+
+>48. "En muchos casos, a lo largo del curso académico se realizan salidas fuera del aula y se visitan lugares como complemento educativo a las clases regladas. Los museos, galerías, fábricas, empresas, incorporan la realidad aumentada en sus recorridos proporcionando una información completa y audiovisualmente muy atractiva a los visitantes. Los estudiantes además de aprender la materia objeto de la visita desarrollan las destrezas que el manejo de esta tecnología les proporciona." [@Blazquez2017realidad]
+
+>49. "La Realidad Aumentada (RA) actúa como un puente entre la enseñanza y el aprendizaje digital. Los docentes son el factor central de cualquier sistema educativo y desempeñan un papel importante en la incorporación y adopción de la tecnología en la educación." [@Gargrish2021Augmented]
+
+>50. "Los libros de texto aumentados comprenden otra variante interesante de la RA. Para visualizar objetos de RA, únicamente se precisa la instalación de un software especial en el ordenador, así como enfocar el libro con una cámara web. La finalidad no es otra que complementar la información textual o gráfica, característica de un libro, con simulaciones o análisis de casos de estudio, propiciándose así una aproximación más global y holística de los contenidos expuestos" [@dePedro2012realidad]
+
+>51. "El estudio realizado muestra que la participación en experiencias de RA aumenta la motivación de los estudiantes, esto medido a través del IMMS y las diferentes dimensiones que lo componen: confianza, atención, satisfacción y relevancia. Se encontró una relación significativa entre el grado de motivación y el aumento del rendimiento. Cuanto mayor sea la motivación (confianza, atención, satisfacción y relevancia), mayor será el desempeño o la retención de la información aprendida." [@Cabero-Almenara2019Educational]
+
+>52. "Pese a esta percepción positiva de alumnos y docentes estos primeros pasos en la implantación conllevan dificultades y problemas. Los principales son la creación de los contenidos, que para los alumnos no es relevante, es para el profesor un problema. No se siente preparado para enfrentarse a los problemas técnicos no ya de la creación de los contenidos sino de los problemas que plantean los errores que aparecen en los Tablet o en los contenidos." [@Morales2017realidad]
+
+>53. "El avance de la tecnología hoy en día ha mejorado los métodos de aprendizaje que están empezando a anular los métodos tradicionales. La Realidad Aumentada (AR) es una de esas tecnologías que ha tenido muchas aplicaciones en la educación. Este artículo describe cómo una aplicación de Realidad Aumentada Inmersiva (iAR), junto con un libro, pueden actuar como un nuevo método de aprendizaje inteligente al involucrar tantos sentidos y funciones humanas del usuario como sea posible." [@Bazzaza2014iARBook]
+
+>54. "Tal y como manifiestan los alumnos, la capacitación en la integración de las TIC puede abrir grandes oportunidades laborales a los profesionales de la educación, puesto que es imprescindible que sean capaces de responder a las necesidades y exigencias del contexto social actual. Pero, esta formación no solamente repercutirá en los docentes, sino que se reflejará en las destrezas de los discentes, puesto que el uso de las TIC puede traer grandes beneficios (autonomía, interactividad, cooperación, creatividad, integración…)." [@Perez2021realidad]
+
+>55. "Los profesores y estudiantes pueden utilizar la tecnología actual para visualizar conceptos de física que son bastante difíciles de comprender, como el concepto de imágenes en espejos y lentes, el concepto de inducción magnética, el concepto de fuerza magnética, concepto de inducción electromagnética y otros. Hay muchos muchas de estas tecnologías que se pueden utilizar en la educación y una de las cuales es la tecnología de Realidad Aumentada (RA)."
+
+>56. ""
 
 ## Realidad Virtual
 
