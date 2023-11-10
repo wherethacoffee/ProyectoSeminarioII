@@ -78,8 +78,7 @@ Y se clasificaron los resultados de acuerdo a lo siguiente...
 
 >8. "The results indicate that the implementation of new technologies in education of virtual and augmented reality improve interactivity and student interest in mathematics education, contributing to more efficient learning and understanding of mathematical concepts when compared to traditional teaching methods." [@Demitriadou2019]
 
->9. "Prior to using the AR technology in the
-learning environment, researchers are encouraged to plan well-structured teaching and learning components encompassing (1) students’ needs, (2) learning objectives, (3 ) the forms of support such as equipment, and (4) the types of learning strategies that suit students’ needs" [@ARStrategies2020]
+>9. "Prior to using the AR technology in the learning environment, researchers are encouraged to plan well-structured teaching and learning components encompassing (1) students’ needs, (2) learning objectives, (3 ) the forms of support such as equipment, and (4) the types of learning strategies that suit students’ needs" [@ARStrategies2020]
 
 >10. "La Realidad Aumentada establecerá un puente entre los conceptos teóricos y larealización física de los experimentos con los dispositivos reales. El sistema mediante una cámara captura la imagen del dispositivo real (por ejemplo un circuito electrónico) y mostrará al alumno en la pantalla del ordenador el dispositivo real con información adicional. La información virtual añadida a la imagen real estará relacionada con los conceptos teóricos del dispositivo real y se presentará en un formato 2D, 3D, video, audio o texto entre otros". [@basogain2007realidad]
 
