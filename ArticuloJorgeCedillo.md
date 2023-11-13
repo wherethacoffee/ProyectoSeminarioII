@@ -33,6 +33,7 @@ Se realizó una búsqueda de artículos con las palabras clave:
 - Realidad aumentada
 - ¿Qué es la realidad aumentada?
 - Does Augmented Reality (AR) improve learning?
+- Does augmented reality enhance learning?
 
 Y se clasificaron los resultados de acuerdo a lo siguiente...
 
@@ -80,6 +81,14 @@ Bazzaza (2014) describe cómo la Realidad Aumentada Inmersiva (iAR), combinada c
 
 Muhammad (2022) destaca la utilidad de la Realidad Aumentada en la visualización de conceptos complejos de física, como inducción magnética o conceptos relacionados con la óptica. La tecnología de RA se presenta como una herramienta efectiva para la comprensión de conceptos difíciles en la educación [@Muhammad2022Review].
 
+Las investigaciones sobre la aplicación de Realidad Aumentada (RA) en la educación primaria, como señala Bistaman (2018), resaltan la importancia de considerar aspectos específicos del dominio, pedagógicos y psicológicos para una implementación exitosa en este contexto educativo [@Bistaman2018].
+
+Marín-Díaz y Sampedro-Requena (2020) plantean un dilema en el uso de la RA en la educación primaria. Mientras reconocen el potencial de la tecnología, señalan que la falta de conocimientos informáticos y el tiempo requerido para aprender a usarla pueden ser obstáculos significativos para su adopción. Esto sugiere que la implementación de la RA puede generar desaliento entre los docentes y, en consecuencia, cierta resistencia a su incorporación en este nivel educativo [@marin2020realidad].
+
+Alzahrani (2020) enfatiza que la Realidad Aumentada en el contexto del aprendizaje electrónico mejora la educación al respaldar la experiencia de aprendizaje kinestésico, colaborativo, a distancia, centrado en el estudiante y creativo. Sin embargo, también se enfrenta a desafíos como la sobrecarga cognitiva, la resistencia por parte de los docentes y problemas técnicos [@Alzahrani2020Augmented].
+
+Tzima (2019) resalta que, aunque el uso de dispositivos móviles no está permitido en la escuela, la familiaridad de los estudiantes con estos dispositivos se considera un aspecto importante. Si los docentes organizan de manera sistemática acciones basadas en objetivos educativos específicos, la mayoría de los estudiantes estaría dispuesta a cooperar de manera efectiva [@Tzima2019Augmented].
+
 ### Impacto en la Enseñanza y el Aprendizaje
 
 El estudio de Di Serio et al. (2013) sugiere que la RA puede tener un impacto significativo en la enseñanza y el aprendizaje. Se destaca que las capacidades inmersivas de la RA ayudan a mantener altos niveles de atención e interés en el contenido de aprendizaje, lo que resulta en mayores niveles de concentración y memorización entre los estudiantes [@ARMotivation2013].
@@ -106,6 +115,8 @@ Cabero-Almenara (2019) resalta cómo la participación en experiencias de Realid
 
 Morales (2017) identifica desafíos específicos en la implementación de la Realidad Aumentada en la educación. Destaca la creación de contenidos, que puede resultar no relevante para los alumnos y un desafío técnico para los docentes, especialmente al enfrentarse a problemas con tablets o los contenidos mismos [@Morales2017realidad].
 
+Altomari (2017) plantea la interrogante sobre el valor instrumental de la Realidad Aumentada en la educación. Se destaca que, al igual que la visita a una biblioteca tradicional no garantiza el compromiso del estudiante ni un aprendizaje significativo, la inclusión de la Realidad Aumentada no asegura automáticamente el interés, la motivación o la comprensión del contenido, a menos que se utilice en un entorno educativo apropiado [@altomari2017realidad].
+
 ### Motivación y Participación de los Estudiantes
 
 Los docentes han observado altos niveles de participación de los estudiantes al utilizar smartphones con RA en el aula. Sin embargo, según el estudio de Teachers' Views on Integrating Augmented Reality in Education (2023), aunque los profesores informan una fuerte participación de los estudiantes, las opiniones sobre el impacto específico de la RA en el aprendizaje son diversas [@TeachersAR2023].
@@ -118,11 +129,24 @@ Gurevych et al. (2021) destacan la introducción de la tecnología de Realidad A
 ### Opiniones y Experiencias de los Profesores
 Marín Díaz et al. (2016) aportan una perspectiva importante sobre la RA en la etapa de educación infantil. Afirman que la RA puede provocar la curiosidad y la sorpresa en los estudiantes, elementos cruciales en esta etapa formativa. La visión de los maestros en formación sobre esta herramienta emergente es esencial para su implementación efectiva [@marin2016].
 
-### Comparación entre Realidad Aumentada y Realidad Virtual en Educación
-
->36. ""
 
 ## Realidad Virtual
+
+### Beneficios de la Realidad Virtual en la educación
+
+
+### Desafíos y Limitaciones de la Realidad Virtual en la Educación
+
+
+### Impacto en la Enseñanza y el Aprendizaje
+
+
+### Motivación y Participación de los Estudiantes
+
+
+### Opiniones y Experiencias de los Profesores
+
+### Comparación entre Realidad Aumentada y Realidad Virtual en Educación
 
 # Resultados
 
