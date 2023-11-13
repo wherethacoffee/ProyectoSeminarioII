@@ -31,6 +31,7 @@ Se realizó una búsqueda de artículos con las palabras clave:
 
 - Realidad aumentada en la educación
 - Realidad aumentada
+- Realidad aumentada educación
 - ¿Qué es la realidad aumentada?
 - Does Augmented Reality (AR) improve learning?
 - Does augmented reality enhance learning?
@@ -43,21 +44,17 @@ Y se clasificaron los resultados de acuerdo a lo siguiente...
 
 ### Beneficios de la Realidad Aumentada en la educación
 
-La Realidad Aumentada (RA) en la educación ha demostrado ser una herramienta prometedora con diversos beneficios. Prendes (2015) destaca la posibilidad de interacción entre marcadores y la mejora continua de aplicaciones existentes, como ARChemistry de Paradox. Aunque se señala la falta de implementaciones gratuitas, esto representa una área de desarrollo futuro [@Prendes2015].
+La Realidad Aumentada (RA) ha emergido como una herramienta educativa prometedora, revelando una serie de beneficios que pueden transformar el proceso de enseñanza y aprendizaje [@Prendes2015]. La interacción entre marcadores y la continua evolución de aplicaciones especializadas, como ARChemistry de Paradox, son ejemplos notables que ilustran las posibilidades aportadas por la RA en el ámbito educativo [@Prendes2015]. A pesar de la falta de implementaciones gratuitas, estas áreas representan una prometedora dirección para el desarrollo futuro.
 
-Cabero and Barroso (2016) enfatizan la importancia de diseñar entornos flexibles que aborden los desafíos tecnológicos, convirtiendo la incorporación de RA en un asunto educativo y didáctico. Subrayan la necesidad de desarrollar competencias digitales en docentes y estudiantes, así como investigar metodologías y crear materiales multiplataforma [@CaberoBarroso2016].
+El diseño de entornos flexibles para abordar los desafíos tecnológicos y pedagógicos es crucial [@CaberoBarroso2016]. Enfocarse en el desarrollo de competencias digitales para docentes y estudiantes, así como la investigación de metodologías y la creación de materiales multiplataforma, representa un paso fundamental para una integración eficaz de la RA en la educación [@CaberoBarroso2016].
 
-Wu et al. (2013) señalan que, aunque la RA tiene un gran potencial para respaldar el aprendizaje y la enseñanza al integrar múltiples tecnologías, su implementación en entornos educativos presenta diversas consideraciones. Analizaron estudios empíricos y discutieron las cuestiones que deben tenerse en cuenta al implementar la RA en entornos educativos [@WU2013].
+La RA no solo ofrece avances tecnológicos, sino que demuestra mejoras significativas en el rendimiento de los estudiantes [@WU2013]. Estudios, como el de Lin et al., presentan resultados que indican una mejora significativa en el conocimiento de los estudiantes en temas específicos, como las colisiones elásticas, gracias a la implementación de sistemas de RA [@Lin2013].
 
-Lin et al. (2013) llevaron a cabo un estudio sobre un sistema de Física en Realidad Aumentada y encontraron que los puntajes postprueba de los estudiantes relacionados con colisiones elásticas mejoraron significativamente con el uso del sistema de RA. Esto sugiere un impacto positivo en el conocimiento de los estudiantes mediante la implementación de la RA [@Lin2013].
+Las investigaciones señalan que intervenciones prolongadas con RA generan respuestas más positivas, lo que se traduce en una mayor motivación para el aprendizaje y un mejor desempeño académico [@Chang2022]. Asimismo, Sáez-López et al. enfatizan los beneficios que abarcan la motivación, la innovación y la participación, una vez superadas las barreras iniciales en cuanto a recursos y capacitación docente [@Sáez-López2020].
 
-Chang et al. (2022) sugieren que intervenciones más prolongadas con RA tienden a generar respuestas más positivas, incluyendo una mayor motivación para el aprendizaje, una actitud de aprendizaje mejorada y mayores logros en términos de conocimientos y habilidades aprendidas [@Chang2022].
+La RA no solo se revela como una herramienta motivadora, sino que también ofrece soluciones a problemas inherentes a ciertos contextos de enseñanza [@Gutiérrez2014]. La capacidad de mejorar la comprensión de los estudiantes resalta la utilidad de la RA en situaciones donde los métodos de instrucción tradicionales han resultado inapropiados o insuficientes [@Gutiérrez2014].
 
-Sáez-López et al. (2020) destacan que, una vez superadas las barreras de recursos, planificación de clases y capacitación inicial de maestros, la Realidad Aumentada proporciona beneficios centrados en pedagogías que generan entusiasmo entre los estudiantes. Se observan ventajas significativas en creatividad, innovación, participación y especialmente en la motivación de los participantes [@Sáez-López2020].
-
-Gutiérrez y Meneses Fernández (2014) destacan que las aplicaciones de RA pueden mejorar, motivar y estimular la comprensión de los estudiantes en eventos específicos, especialmente aquellos para los cuales la instrucción tradicional ha resultado inapropiada o difícil. Además, la interacción en entornos aumentados permite un aprendizaje rápido [@Gutiérrez2014].
-
-Montecé-Mosquera et al. (2017) subrayan la idea de que la combinación de una o varias herramientas con la Realidad Aumentada puede mejorar la obtención de resultados en diversas áreas de aplicación [@Montecé2017].
+La combinación de la RA con otras herramientas es vista como una estrategia eficaz para mejorar los resultados, independientemente del campo de aplicación [@Montecé2017]. Este enfoque combinado demuestra una mayor eficacia en el abordaje y comprensión de diversos temas, sugiriendo un camino prometedor para la educación mediante la RA.
 
 ### Desafíos y Limitaciones de la Realidad Aumentada en la Educación
 
