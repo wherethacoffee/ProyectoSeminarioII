@@ -13,7 +13,7 @@ header-includes:
 - \usepackage{fancyhdr}
 - \pagestyle{fancy}
 - \rhead{Universidad Autónoma de Coahuila (2023)}
-- \lhead{Cedillo, Jorge de Jesús}
+- \lhead{Cedillo Gutiérrez, Jorge de J.}
 ---
 \newpage
 \tableofcontents
@@ -35,6 +35,9 @@ Se realizó una búsqueda de artículos con las palabras clave:
 - ¿Qué es la realidad aumentada?
 - Does Augmented Reality (AR) improve learning?
 - Does augmented reality enhance learning?
+- realidad virtual en la educación
+- How does virtual reality aid learning?
+- virtual reality applied in education
 
 Y se clasificaron los resultados de acuerdo a lo siguiente...
 
@@ -130,7 +133,21 @@ Esta tecnología ha ganado un espacio destacado en la etapa de educación infant
 
 # Resultados
 
-Se encontraron 20 artículos referentes al tema, entre los cuales, destaca la postura o iniciativa de tecnología en la que se describe un método como lo plantean los autores x, y, y z. A partir de lo cual, se reconoce que...
+## Realidad aumentada
+
+ Basado en la revisión de 40 artículos, se resalta la postura de diversos autores que describen la Realidad Aumentada como una herramienta de innovación tecnológica. Autores como Carlos Prendes Espinosa, Julio Cabero et al., Hsin-Kai Wu et al., Tzung-Jin Lin et al., Hsin-Yi Chang et al., José-Manuel Sáez-López et al., J. M. Gutiérrez et al. y Franklin Montecé-Mosquera et al. han planteado la RA como un método efectivo para la educación, destacando su potencial para atraer la atención de los estudiantes y fomentar su participación activa en el aprendizaje. Esta metodología se ha reconocido como una vía prometedora para la integración de conceptos teóricos con aplicaciones prácticas.
+
+ Además, la literatura evidencia que la RA puede inducir curiosidad y sorpresa en los estudiantes, elementos cruciales en etapas formativas como la educación infantil. Esto sugiere que, efectivamente, la RA tiene el potencial de captar la atención de los estudiantes más jóvenes y motivarlos para explorar y aprender de manera más activa y atractiva.
+
+ Asimismo, se han identificado desafíos, incluyendo la importancia de una planificación cuidadosa en la implementación de la RA en entornos educativos. Esto incluye la necesidad de considerar estrategias pedagógicas adecuadas y un ambiente educativo que respalde el uso efectivo de la tecnología. El rol del docente ha sido destacado como esencial en esta implementación, reconociendo que la RA no garantiza el éxito si no se integra de manera apropiada en el contexto educativo.
+
+ Estos resultados sugieren que la Realidad Aumentada, si se utiliza estratégicamente y se superan los desafíos asociados, puede ser una herramienta poderosa para motivar a los estudiantes, generar interés en el aprendizaje y mejorar su comprensión de los conceptos educativos.
+
+## Realidad virtual
+
+
+# Conclusiones
+
 
 
 # Bibliografía
