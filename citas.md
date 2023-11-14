@@ -129,3 +129,33 @@ Citas de realidad virtual
 >19. "En algunas ocasiones el término de Realidad Virtual es confundido con el de Realidad Aumentada (RA), pero, aunque relacionadas no son iguales. La principal diferencia que las distingue reside en el lugar dónde se sitúa la persona ante ambas experiencias. Con la RA la persona está en cualquier lugar, y gracias a los dispositivos con esta tecnología puede obtener experiencias e información adicional relacionada con ese espacio donde se encuentra gracias a un móvil, por ejemplo; sin embargo, con la RV la persona puede estar en su casa o en un aula, y mediante esta tecnología transportarse a otro contexto totalmente diferente por medio de las imágenes, sonidos y vídeos que se le presentan" [@gomez2019realidad]
 
 >20. "AR and VR technologies can provide a more accessible learning experience for students with special needs. By allowing students to explore virtual environments at their own pace and on their own terms, these technologies can make learning more accessible for those with physical or cognitive impairments." [@ALANSI2023]
+
+>21. "Virtual reality can enhance remote learning by increasing student mastery of the technology and fostering a sense of shared experience and agency." [@McGivney2022Remote]
+
+>22. ""
+
+>23. ""
+
+>24. ""
+
+>25. ""
+
+>26. ""
+
+>27. ""
+
+>28. ""
+
+>29. ""
+
+>30. ""
+
+>31. ""
+
+>32. ""
+
+>33. ""
+
+>34. ""
+
+>35. ""

@@ -38,6 +38,8 @@ Se realizó una búsqueda de artículos con las palabras clave:
 - realidad virtual en la educación
 - How does virtual reality aid learning?
 - virtual reality applied in education
+- VR could improve learning?
+- realidad virtual en la enseñanza
 
 Y se clasificaron los resultados de acuerdo a lo siguiente...
 
@@ -117,12 +119,19 @@ Esta tecnología ha ganado un espacio destacado en la etapa de educación infant
 
 ### Beneficios de la Realidad Virtual en la educación
 
+La realidad virtual (RV) emerge como una herramienta con potencial transformador en el ámbito educativo. La integración de la RV en el sistema de aprendizaje se presenta como una posibilidad viable, siempre y cuando se capacite a los docentes sobre sus diversos usos y el manejo de los cascos virtuales. Es crucial destacar que esta capacitación debe abordar tanto los aspectos teóricos como prácticos para garantizar un uso efectivo de los dispositivos tecnológicos [@mendoza2016uso].
+
+El análisis de proyectos de implementación de tecnologías virtuales resalta múltiples beneficios, como la eliminación de barreras espacio-temporales, facilitación del intercambio de experiencias, cooperación entre usuarios, aumento de la motivación, y el desarrollo de actitudes conscientes y respetuosas hacia el patrimonio [@Ibañez2020heritage].
 
 ### Desafíos y Limitaciones de la Realidad Virtual en la Educación
 
+El estudio sobre la preparación virtual indica que esta situación es factible, considerando la eficiencia en el aprendizaje individual, reducción de costos y mayor seguridad. Sin embargo, se reconoce que aún se necesita investigación adicional, especialmente en términos de posibles efectos secundarios y transferencia de habilidades [@Ibrahim2021Virtual].
+
+La RV se posiciona como una herramienta con potencial para aplicaciones laborales, incluyendo visualización, comunicación, capacitación y orientación. No obstante, se destaca la necesidad de investigar más a fondo los posibles efectos secundarios y la transferencia de habilidades asociadas [@Weiss1998Virtual].
 
 ### Impacto en la Enseñanza y el Aprendizaje
 
+La revisión de publicaciones revela que, en el ámbito educativo, la RV se aplica de manera considerable en todos los niveles, desde Educación Primaria hasta la Universidad. La herramienta "Google Expeditions" destaca al permitir a los docentes guiar el aprendizaje a través de expediciones virtuales a lugares diversos, desde el fondo marino hasta el interior del cuerpo humano o eventos históricos [@aznar2018tecnologia].
 
 ### Motivación y Participación de los Estudiantes
 
