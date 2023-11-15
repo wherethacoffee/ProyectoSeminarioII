@@ -108,7 +108,7 @@ Citas de realidad virtual
 
 >9. "Virtual Reality Learning (VRL) is a well-received tool in Indian schools, providing interactive learning and satisfying students' learning needs." [@Raja2021An]
 
->10. " la generación de experiencias interactivas e inmersivas que permitan una adherencia real a su uso, el diseño de nuevas estrategias para generar una adopción sostenible de esta nueva tecnología en los procesos de enseñanza y aprendizaje, así como la sensibilización a los actores involucrados como docentes, estudiantes y gestores educativos son ejes con un gran potencial para su desarrollo investigativo para el campo de la educación médica." [@BARJAORE2023100831]
+>10. " la generación de experiencias interactivas e inmersivas que permitan una adherencia real a su uso, el diseño de nuevas estrategias para generar una adopción sostenible de esta nueva tecnología en los procesos de enseñanza y aprendizaje, así como la sensibilización a los actores involucrados como docentes, estudiantes y gestores educativos son ejes con un gran potencial para su desarrollo investigativo para el campo de la educación." [@BARJAORE2023100831]
 
 >11. "VR provides students with a fully immersive and highly interactive learning environment where they can explore different virtual objects through visualization added with immediate feedback and assistance. Students can actively use trial and error to practice assigned tasks and evaluate their learning experiences without further observation and assistance from the instructors." [@YANG2023]
 
@@ -132,17 +132,17 @@ Citas de realidad virtual
 
 >21. "Virtual reality can enhance remote learning by increasing student mastery of the technology and fostering a sense of shared experience and agency." [@McGivney2022Remote]
 
->22. ""
+>22. "La Realidad Virtual posee un enorme potencial para simular situaciones en diversos campos del mundo real, particularmente en el campo de la educación, donde sus características de inmersión, aprendizaje en primera persona, interacción no simbólica... pueden ser de gran ayuda al proceso de enseñanza/aprendizaje. " [@jimenez2000cuando]
 
->23. ""
+>23. "La  Realidad  Virtual  es  un  recurso  didáctico  del  que  los  profesores  se  pueden  servir  para motivar  y  atraer  la  atención  de  los  estudiantes  a  través  de  los  gráficos  tridimensionales  de calidad y del alto grado de interactividad ofrecida por los sistemas virtuales. Cada vez es mayor el número de centros de enseñanza en los que se utilizan aplicaciones de este tipo." [@hilera1999aplicacion]
 
->24. ""
+>24. "Una de las metodologías utilizadas por estas herramientas consta en jugar mientras aprenden, donde los juegos didácticos afianzan la manera de aprender, son estos los motivos por el cual se cataloga la utilización de software educativo ya sea en segundos mundos como Metaversos y realidades virtuales como factores esenciales donde se demuestra la utilidad de estos a la hora de brindar educación." [@anacona2019aplicacion]
 
->25. ""
+>25. "Virtual Reality (VR) shows potential in improving performance and conceptual understanding in education, but more research is needed to fully understand its impact on learning outcomes." [@Lee2008A]
 
->26. ""
+>26. "This social virtual reality mobile application effectively improves English speaking skills by combining mobile learning, social networks, and VR, offering private sessions with native speakers or a community of learners." [@Alwafi2022A]
 
->27. ""
+>27. "Con esta intervención, los estudiantes, recordemos futuros docentes, han experimentado en primera persona las posibilidades del uso de la Realidad Virtual en la enseñanza de la Historia, desde un planteamiento integrador de contenidos, didáctica y tecnología." [@cozar2019analisis]
 
 >28. ""
 
