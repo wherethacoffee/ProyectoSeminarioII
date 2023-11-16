@@ -3,6 +3,7 @@ title: "Revisión de la realidad aumentada y realidad virtual como impulso a la 
 author: "Jorge de Jesús Cedillo Gutiérrez"
 date: "2023-09-28"
 abstract: "Este artículo presenta una revisión exhaustiva de la literatura existente sobre la integración de la realidad aumentada y la realidad virtual en el ámbito educativo. Se analizan casos de estudio, investigaciones y enfoques pedagógicos que han empleado estas tecnologías con el objetivo de mejorar el proceso de enseñanza-aprendizaje. Además, se exploran tendencias emergentes y perspectivas futuras en este campo. La revisión destaca el impacto positivo de la realidad aumentada y virtual en la motivación de los estudiantes, el compromiso y la comprensión de los conceptos. Se discuten los desafíos y las oportunidades que estas tecnologías presentan en el contexto educativo y se subraya la importancia de su implementación adecuada."
+keywords: "realidad aumentada"
 numbersections: true
 geometry: 
 - top=30mm
@@ -40,6 +41,7 @@ Se realizó una búsqueda de artículos con las palabras clave:
 - virtual reality applied in education
 - VR could improve learning?
 - realidad virtual en la enseñanza
+- virtual reality in education
 
 Y se clasificaron los resultados de acuerdo a lo siguiente...
 

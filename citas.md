@@ -144,18 +144,28 @@ Citas de realidad virtual
 
 >27. "Con esta intervención, los estudiantes, recordemos futuros docentes, han experimentado en primera persona las posibilidades del uso de la Realidad Virtual en la enseñanza de la Historia, desde un planteamiento integrador de contenidos, didáctica y tecnología." [@cozar2019analisis]
 
->28. ""
+>28. "A pesar de que el interés y las investigaciones en mindfulness han crecido exponencialmente en los últimos años, demostrando sus múltiples beneficios, en la actualidad siguen existiendo dificultades u obstáculos asociados a su práctica. La Realidad Virtual (RV) se plantea como una herramienta que puede contribuir al aprendizaje y uso de esta técnica." [@alarcon2016utilidad]
 
->29. ""
+>29. "Definitivamente, la realidad virtual no debe sustituir al profesor, ni a los compañeros; debe abrir espacios para la ampliación de lo tradicional, debe mostrar otras perspectivas, pero no puede ser la única" [@ferre2005aspectos]
 
->30. ""
+>30. "Los resultados fructíferos se han logrado permitiendo la visualización de imágenes y vídeos en 3D, favoreciendo la interacción de los alumnos con el universo de la nanociencia a través de una experiencia inmersiva, proactiva y motivadora, en sinergia con alto poder de ilustración e interactividad de la herramienta." [@ribeiro2018holografia]
 
->31. ""
+>31. "Virtual reality shows potential in memory rehabilitation, improving assessments and promoting procedural learning, potentially enhancing real-world performance."
 
->32. ""
+>32. "The second  research  objective’s  outcome  revealed that  the  vast  majority  of  teachers  stated  the following about virtual reality: Visual learning is interesting in the lessons, it encourages students to be more active, it is more suitable for students with schematic and visual thinking   style, it provides  students  with  a  general  idea  of  what they have just learned, it facilitates    the implementation of the information obtained from the  topics  described in the  course,  it  provides faster  learning than  other  methods,  it  makes easier to understand the issues, it helps students to  review  their  course  more  permanently  and quickly, and it requires concentration. " [@Serin2020Virtual]
 
->33. ""
+>33. "Virtual reality technology in education enhances learning and teaching by allowing learners to experience and feel in realistic virtual spaces, and promoting digital age thinking modes in education and teaching." [@Jiang2018Application]
 
->34. ""
+>34. "Virtual reality is rapidly expanding in educational simulations for special educators, benefiting personnel preparation and service delivery for children and adults with disabilities." [@Ludlow2015Virtual]
 
->35. ""
+>35. "Se debe mencionar que, actualmente, la convergencia de tecnología en las TIC ha favorecido que los costos relacionados con la implementación de sistemas basados en realidad virtual disminuyan, y ha abierto la posibilidad de que cada vez más centros educativos la incorporen mediante equipos de cómputo más potentes y de mayor rendimiento." [@cruz2014realidad]
+
+>36. "First, when wearing HMD for a long time, it is more dangerous for young children who are growing their bodies. In the future, virtual reality will expand to a wider range as its use becomes more diverse. The problem of virtual reality in this situation causes difficulty for learners when applying educational contents." [@an2020problems]
+
+>37. "It’s clear that an actual integration of these technologies requires lots of improvements and changes not only on the part of engineers and experts of AR and VR, but also teachers and all persons related to the field of educational. Engineers must propose VR and AR headsets that are more comfortable and accessible." [@elmqaddem2019augmented]
+
+>38. "Over 17 million tweets were retrieved, processed, and analyzed using text mining, sentiment analysis, and topic modeling methods. The results showcased that the majority of the public were positively disposed toward the general and educational use of both augmented reality and virtual reality. Moreover, they mostly expressed positive emotions (e.g., anticipation, trust, and joy) when referring to them. The flexibility and applicability of these technologies were also evident as they can be successfully applied into several domains." [@lampropoulos2022augmented]
+
+>39. "VR can simulate scenarios that are difficult, if not impossible, to replicate in the physical world. By allowing learners to actively engage with these scenarios, they can reflect on their experiences, conceptualize new knowledge and experiment with different approaches to problem-solving. This aligns with the core principles of experiential learning theory and can lead to more effective learning outcomes." [@marougkas2023virtual]
+
+>40. "Thanks to both virtual and augmented reality, teachers are no longer limited by the space of a classroom. Virtual reality enables virtual exploration of the entire world, while augmented reality enriches abstract concepts and enables teachers to guide their students through 360◦ scenes and 3D objects. Such systems can also introduce interesting locations and artefacts. If students are empowered to visualize information in a new way, their ability to store such information can be positively influenced." [@kuna2023creation]
