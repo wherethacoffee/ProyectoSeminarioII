@@ -108,7 +108,7 @@ Citas de realidad virtual
 
 >9. "Virtual Reality Learning (VRL) is a well-received tool in Indian schools, providing interactive learning and satisfying students' learning needs." [@Raja2021An]
 
->10. " la generación de experiencias interactivas e inmersivas que permitan una adherencia real a su uso, el diseño de nuevas estrategias para generar una adopción sostenible de esta nueva tecnología en los procesos de enseñanza y aprendizaje, así como la sensibilización a los actores involucrados como docentes, estudiantes y gestores educativos son ejes con un gran potencial para su desarrollo investigativo para el campo de la educación." [@BARJAORE2023]
+>10. " la generación de experiencias interactivas e inmersivas que permitan una adherencia real a su uso, el diseño de nuevas estrategias para generar una adopción sostenible de esta nueva tecnología en los procesos de enseñanza y aprendizaje, así como la sensibilización a los actores involucrados como docentes, estudiantes y gestores educativos son ejes con un gran potencial para su desarrollo investigativo para el campo de la educación médica." [@BARJAORE2023100831]
 
 >11. "VR provides students with a fully immersive and highly interactive learning environment where they can explore different virtual objects through visualization added with immediate feedback and assistance. Students can actively use trial and error to practice assigned tasks and evaluate their learning experiences without further observation and assistance from the instructors." [@YANG2023]
 
