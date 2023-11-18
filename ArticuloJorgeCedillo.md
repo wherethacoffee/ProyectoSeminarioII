@@ -133,6 +133,13 @@ La realidad virtual (VR) en la educación secundaria mejora el aprendizaje y la 
 
 La realidad virtual (RV) promete un avance cualitativo significativo en el aprendizaje, especialmente en disciplinas donde visualizar procesos es desafiante. La utilización de modelos virtuales proporciona una comprensión tridimensional única. La RV se destaca por su intuitividad y capacidad para simplificar la explicación de conceptos complejos o abstractos [@ocete2003realidad].
 
+El potencial de la realidad virtual para simular situaciones del mundo real destaca su papel fundamental en la educación. Su capacidad de inmersión, aprendizaje en primera persona e interacción no simbólica proporciona un apoyo valioso al proceso de enseñanza y aprendizaje. Las características únicas de la RV, como la simulación de escenarios realistas, la inmersión total y la interacción no simbólica, se posicionan como elementos clave para mejorar la educación [@jimenez2000cuando].
+
+La realidad virtual se presenta como una herramienta valiosa para la enseñanza de mindfulness. Aunque la práctica de mindfulness puede tener obstáculos, la RV se postula como una herramienta que puede contribuir al aprendizaje y uso de esta técnica, ofreciendo nuevas perspectivas y superando desafíos asociados a su práctica [@alarcon2016utilidad].
+
+La tecnología de realidad virtual en la educación se presenta como una herramienta que mejora el aprendizaje y la enseñanza al permitir que los estudiantes experimenten y sientan entornos virtuales realistas. Esta capacidad de la RV promueve modos de pensamiento propios de la era digital en la educación y la enseñanza [@Jiang2018Application].
+
+La Realidad Virtual (RV) se posiciona como una herramienta transformadora en el ámbito educativo, ofreciendo una amplia gama de beneficios. La capacidad de simular escenarios difíciles de replicar en el mundo físico permite a los estudiantes participar activamente, reflexionar sobre sus experiencias y experimentar con diferentes enfoques para resolver problemas [@marougkas2023virtual]. Esta aplicación de la RV está alineada con los principios fundamentales de la teoría del aprendizaje experiencial, lo que puede conducir a resultados de aprendizaje más efectivos.
 
 ### Desafíos y Limitaciones de la Realidad Virtual en la Educación
 
@@ -144,6 +151,12 @@ En China, la investigación sobre el uso de la tecnología de realidad virtual (
 
 Aunque la realidad aumentada (RA) y la realidad virtual (RV) están relacionadas, difieren en el lugar donde se sitúa la persona durante la experiencia. Mientras que con la RA la persona interactúa con información adicional en el espacio circundante, la RV transporta a la persona a un contexto completamente diferente, ofreciendo una experiencia inmersiva mediante imágenes, sonidos y vídeos [@gomez2019realidad].
 
+A pesar de los beneficios potenciales, la realidad virtual también enfrenta desafíos y limitaciones en la educación. La necesidad de realizar más investigaciones para comprender completamente el impacto de la RV en los resultados de aprendizaje es un tema recurrente. Aunque se reconoce su potencial para mejorar el rendimiento y la comprensión conceptual, se destaca la importancia de investigaciones adicionales para aprovechar al máximo esta tecnología en el ámbito educativo [@Lee2008A].
+
+Las reflexiones sobre la realidad virtual en la educación subrayan que esta tecnología no debe reemplazar al profesor ni a los compañeros, sino más bien abrir espacios para la ampliación de lo tradicional. Aunque la RV muestra múltiples perspectivas y posibilidades, se destaca la importancia de mantener un equilibrio para no relegar elementos esenciales del proceso educativo [@ferre2005aspectos].
+
+Aunque la RV ofrece oportunidades significativas, también presenta desafíos. El uso prolongado de dispositivos de visualización puede plantear riesgos, especialmente para niños en crecimiento, lo que destaca la necesidad de consideraciones de seguridad, especialmente en entornos educativos [@an2020problems]. Además, la integración efectiva de estas tecnologías en el ámbito educativo requiere mejoras en la comodidad y accesibilidad de los auriculares de RV, lo que implica cambios tanto por parte de ingenieros como de educadores [@elmqaddem2019augmented].
+
 ### Impacto en la Enseñanza y el Aprendizaje
 
 La revisión de publicaciones revela que, en el ámbito educativo, la RV se aplica de manera considerable en todos los niveles, desde Educación Primaria hasta la Universidad. La herramienta "Google Expeditions" destaca al permitir a los docentes guiar el aprendizaje a través de expediciones virtuales a lugares diversos, desde el fondo marino hasta el interior del cuerpo humano o eventos históricos [@aznar2018tecnologia].
@@ -152,6 +165,12 @@ El tipo de pantalla y las ayudas de navegación tienen un impacto significativo 
 
 Las tecnologías de realidad aumentada (RA) y realidad virtual (RV) tienen el potencial de proporcionar una experiencia de aprendizaje más accesible para estudiantes con necesidades especiales. Al permitir que los estudiantes exploren entornos virtuales a su propio ritmo y según sus propios términos, estas tecnologías pueden hacer que el aprendizaje sea más accesible para aquellos con discapacidades físicas o cognitivas [@ALANSI2023].
 
+El impacto de la realidad virtual en la enseñanza y el aprendizaje es multifacético. Desde mejorar el rendimiento y la comprensión conceptual hasta proporcionar una experiencia educativa más envolvente, la RV muestra un potencial significativo. Se destaca su capacidad para aumentar la maestría de los estudiantes en la tecnología y fomentar un sentido compartido de experiencia y agencia, especialmente en entornos de aprendizaje remotos [@McGivney2022Remote].
+
+El uso de la realidad virtual en distintos tipos de enseñanza ha generado resultados fructíferos al permitir la visualización de imágenes y vídeos en 3D. Esta experiencia inmersiva, proactiva y motivadora ha mejorado la interacción de los alumnos como por ejemplo, con el mundo de la nanociencia. Destaca cómo la RV puede ilustrar conceptos de manera efectiva y fomentar la participación de los estudiantes [@ribeiro2018holografia].
+
+La realidad virtual muestra un potencial significativo en la rehabilitación de la memoria, mejorando las evaluaciones y fomentando el aprendizaje procedural, lo que podría tener implicaciones positivas en el rendimiento del mundo real [@Brooks2003The].
+
 ### Motivación y Participación de los Estudiantes
 
 El diseño de interfaces operativas eficientes en los entornos de aprendizaje en línea basados en realidad virtual (RV) se revela como un factor crucial. La facilidad de comprensión del sistema por parte de los usuarios es fundamental para que puedan aprovechar los servicios proporcionados sin esfuerzo aparente. La percepción de simplicidad en la tecnología de RV contribuye a reducir la sensación de complejidad, lo que, a su vez, aumenta la valoración de los usuarios y facilita la concentración y el compromiso en el proceso de aprendizaje, antes de que se alcance el estado de flujo [@Wang2021An].
@@ -159,6 +178,10 @@ El diseño de interfaces operativas eficientes en los entornos de aprendizaje en
 La realidad virtual (RV) ofrece a los estudiantes un entorno de aprendizaje completamente inmersivo y altamente interactivo. En este contexto, los estudiantes tienen la oportunidad de explorar diversos objetos virtuales mediante la visualización, enriquecida con retroalimentación inmediata y asistencia. La RV permite a los estudiantes utilizar activamente la prueba y error para practicar tareas asignadas y evaluar sus experiencias de aprendizaje sin depender en gran medida de la observación y asistencia continua de los instructores [@YANG2023]. Esta capacidad de aprendizaje activo y exploratorio puede tener un impacto positivo en la motivación y participación de los estudiantes.
 
 Las experiencias en entornos virtuales demuestran ser particularmente motivadoras para los alumnos, quienes muestran tolerancia hacia las limitaciones tecnológicas y disfrutan el trabajo en ambientes virtuales. A pesar de posibles desafíos, como la desorientación y la fatiga visual en inmersiones prolongadas, los alumnos se muestran receptivos y comprometidos [@escartin2000realidad].
+
+La motivación y participación de los estudiantes son elementos fundamentales en el proceso educativo, y la realidad virtual (RV) ha demostrado ser una herramienta efectiva para potenciar ambos aspectos. Investigaciones sugieren que la RV puede aumentar el interés de los estudiantes a través de gráficos tridimensionales de alta calidad y una interactividad envolvente, lo que la convierte en un recurso didáctico valioso [@hilera1999aplicacion]. Además, se destaca la capacidad de la RV para transformar el aprendizaje en una experiencia más inmersiva y participativa, especialmente cuando se incorpora a través de juegos didácticos y entornos interactivos [@anacona2019aplicacion].
+
+La aplicación de realidad virtual (RV) se extiende a campos específicos, como el aprendizaje del inglés, donde una aplicación social de RV mejora las habilidades de conversación al combinar el aprendizaje móvil, las redes sociales y experiencias de RV, ofreciendo sesiones privadas con hablantes nativos o una comunidad de aprendices [@Alwafi2022A]. Este enfoque destaca la versatilidad de la RV para mejorar habilidades específicas y fomentar la participación de los estudiantes.
 
 ### Opiniones y Experiencias de los Profesores
 
@@ -170,8 +193,27 @@ La educación de competencias sociales asistida por realidad virtual (VR) muestr
 
 La seguridad en el aula emerge como una consideración crucial al integrar la realidad virtual (RV). Los docentes deben prestar atención al manejo adecuado de los recursos de hardware, especialmente ante la inmadurez de los estudiantes. Situaciones de riesgo pueden surgir, especialmente con equipos obsoletos, requiriendo habilidades manuales y presentando posibles riesgos eléctricos. La atención constante a la seguridad es esencial para una implementación exitosa [@ancioto2021realidad].
 
-### Comparación entre Realidad Aumentada y Realidad Virtual en Educación
+La perspectiva de los profesores sobre la realidad virtual en la enseñanza destaca su utilidad como recurso didáctico para motivar y atraer la atención de los estudiantes. La aplicación de software educativo en entornos virtuales se considera esencial, demostrando su utilidad para brindar educación de manera efectiva. Este enfoque lúdico, donde los juegos didácticos fortalecen el proceso de aprendizaje, resalta la importancia de la realidad virtual como un factor clave en la educación moderna [@anacona2019aplicacion].
 
+En la integración de la realidad virtual en la enseñanza de la Historia, los docentes han experimentado las posibilidades de esta tecnología desde un enfoque integrador de contenidos, didáctica y tecnología. La experiencia directa con la RV destaca cómo esta herramienta puede enriquecer la enseñanza al proporcionar perspectivas innovadoras y abrir espacios para la ampliación de lo tradicional, sin sustituir al profesor ni a los compañeros [@cozar2019analisis; @ferre2005aspectos].
+
+En la perspectiva de los profesores, la realidad virtual se destaca por su capacidad para facilitar el aprendizaje visual, fomentar la actividad de los estudiantes, adaptarse a diferentes estilos de pensamiento, proporcionar una comprensión general de los temas y acelerar el proceso de aprendizaje. Además, los docentes encuentran que la RV facilita la revisión permanente y rápida del curso, requiriendo concentración [@Serin2020Virtual].
+
+### Inclusión en Educación Especial
+
+La realidad virtual está experimentando una rápida expansión en simulaciones educativas para educadores especiales, mejorando la preparación del personal y la prestación de servicios para niños y adultos con discapacidades [@Ludlow2015Virtual].
+
+### Costos y Accesibilidad de la Realidad Virtual en la Educación
+
+La convergencia de tecnologías en las Tecnologías de la Información y Comunicación (TIC) ha contribuido a la disminución de los costos asociados con la implementación de sistemas basados en realidad virtual. Esto ha posibilitado que más centros educativos incorporen la RV mediante equipos de cómputo más potentes y de mayor rendimiento, ampliando así su accesibilidad [@cruz2014realidad].
+
+## Ampliación del espacio de aprendizaje con Realidad Aumentada y Realidad Virtual
+
+Tanto la realidad virtual (VR) como la realidad aumentada (AR) permiten a los docentes superar las limitaciones del espacio físico del aula. La RV posibilita la exploración virtual del mundo entero, mientras que la AR enriquece conceptos abstractos y permite a los profesores guiar a sus estudiantes a través de escenas de 360 grados y objetos en 3D. Estos sistemas también pueden introducir lugares y artefactos interesantes. Al capacitar a los estudiantes para visualizar información de nuevas maneras, se puede influir positivamente en su capacidad para retener dicha información [@kuna2023creation].
+
+## Percepción Pública de Realidad Aumentada y Virtual en Educación
+
+La realidad aumentada (RA) y la realidad virtual (RV) han captado la atención del público, como se evidencia en un análisis de más de 17 millones de tweets. Los resultados revelan una disposición generalmente positiva hacia el uso general y educativo de ambas tecnologías. La flexibilidad y aplicabilidad de estas tecnologías son destacadas, mostrando su capacidad para aplicarse en diversos dominios. Las emociones positivas predominan en las menciones, incluyendo anticipación, confianza y alegría [@lampropoulos2022augmented]. Este análisis refleja la importancia de considerar las percepciones públicas al implementar tecnologías emergentes en el ámbito educativo.
 
 
 # Resultados

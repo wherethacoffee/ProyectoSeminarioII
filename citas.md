@@ -150,7 +150,7 @@ Citas de realidad virtual
 
 >30. "Los resultados fructíferos se han logrado permitiendo la visualización de imágenes y vídeos en 3D, favoreciendo la interacción de los alumnos con el universo de la nanociencia a través de una experiencia inmersiva, proactiva y motivadora, en sinergia con alto poder de ilustración e interactividad de la herramienta." [@ribeiro2018holografia]
 
->31. "Virtual reality shows potential in memory rehabilitation, improving assessments and promoting procedural learning, potentially enhancing real-world performance."
+>31. "Virtual reality shows potential in memory rehabilitation, improving assessments and promoting procedural learning, potentially enhancing real-world performance." [@Brooks2003The]
 
 >32. "The second  research  objective’s  outcome  revealed that  the  vast  majority  of  teachers  stated  the following about virtual reality: Visual learning is interesting in the lessons, it encourages students to be more active, it is more suitable for students with schematic and visual thinking   style, it provides  students  with  a  general  idea  of  what they have just learned, it facilitates    the implementation of the information obtained from the  topics  described in the  course,  it  provides faster  learning than  other  methods,  it  makes easier to understand the issues, it helps students to  review  their  course  more  permanently  and quickly, and it requires concentration. " [@Serin2020Virtual]
 
