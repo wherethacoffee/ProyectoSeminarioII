@@ -33,7 +33,7 @@ En este contexto, esta investigación se propone explorar críticamente el impac
 
 \section*{Método}
 
-Se realizó una búsqueda en distintos sitios web y páginas de revistas como _www.sciencedirect.com_, _www.mendeley.com_, _scholar.google.com_ y _consensus.app_ utilizando las siguientes palabras clave:
+Se realizó una búsqueda en distintos sitios web y páginas de revistas como \uline{www.sciencedirect.com}, \uline{www.mendeley.com}, \uline{scholar.google.com} y \uline{consensus.app} utilizando las siguientes palabras clave:
 
 - Realidad aumentada en la educación
 - Realidad aumentada
