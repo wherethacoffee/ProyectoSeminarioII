@@ -13,11 +13,13 @@ geometry:
 header-includes:
 - \usepackage{multicol}
 - \usepackage{ulem}
+- \usepackage[citestyle=advanced-structural-and-chemical-imaging.csl, bibstyle=advanced-structural-and-chemical-imaging.csl]{biblatex}
 - \usepackage{fancyhdr}
 - \pagestyle{fancy}
 - \rhead{Universidad Autónoma de Coahuila (2023)}
 - \lhead{Cedillo Gutiérrez, Jorge de J.}
 ---
+\addbibresource{index.bib}
 \newpage
 \tableofcontents
 \newpage
@@ -256,3 +258,5 @@ En conjunto, la RA y la RV se perfilan como herramientas valiosas que, si se imp
 \end{multicols}
 
 # Bibliografía
+
+\printbibliography
