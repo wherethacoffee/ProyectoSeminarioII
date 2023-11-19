@@ -11,6 +11,7 @@ geometry:
 - right=30mm
 - bottom=30mm
 header-includes:
+- \usepackage{multicol}
 - \usepackage{fancyhdr}
 - \pagestyle{fancy}
 - \rhead{Universidad Autónoma de Coahuila (2023)}
