@@ -36,18 +36,20 @@ En este contexto, esta investigación se propone explorar críticamente el impac
 
 Se realizó una búsqueda en distintos sitios web y páginas de revistas como \uline{www.sciencedirect.com}, \uline{www.mendeley.com}, \uline{scholar.google.com} y \uline{consensus.app} utilizando las siguientes palabras clave:
 
-- Realidad aumentada en la educación
-- Realidad aumentada
-- Realidad aumentada educación
-- ¿Qué es la realidad aumentada?
-- Does Augmented Reality (AR) improve learning?
-- Does augmented reality enhance learning?
-- realidad virtual en la educación
-- How does virtual reality aid learning?
-- virtual reality applied in education
-- VR could improve learning?
-- realidad virtual en la enseñanza
-- virtual reality in education
+\begin{itemize}
+    \item Realidad aumentada en la educación
+    \item Realidad aumentada
+    \item Realidad aumentada educación
+    \item ¿Qué es la realidad aumentada?
+    \item Does Augmented Reality (AR) improve learning?
+    \item Does augmented reality enhance learning?
+    \item Realidad virtual en la educación
+    \item How does virtual reality aid learning?
+    \item Virtual reality applied in education
+    \item VR could improve learning?
+    \item Realidad virtual en la enseñanza
+    \item Virtual reality in education
+\end{itemize}
 
 Y se clasificaron los resultados de acuerdo a lo siguiente...
 
