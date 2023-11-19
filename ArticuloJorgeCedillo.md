@@ -20,6 +20,7 @@ header-includes:
 \tableofcontents
 \newpage
 
+\begin{multicols}{2}
 # Introducción
 
 En la era actual, la educación se encuentra en medio de una transformación impulsada por avances tecnológicos que están redefiniendo la forma en que los estudiantes acceden a la información y participan en el proceso de aprendizaje. Entre las tecnologías emergentes que han captado la atención de educadores y expertos se encuentran la Realidad Aumentada (RA) y la Realidad Virtual (RV). Estas tecnologías, inicialmente asociadas con la industria del entretenimiento, están ganando terreno en el ámbito educativo debido a su potencial para ofrecer experiencias inmersivas y enriquecedoras.
@@ -247,5 +248,7 @@ En cuanto a la RV, se subraya su capacidad para proporcionar una inmersión tota
 A pesar de los beneficios identificados en ambas tecnologías, es crucial abordar desafíos asociados con su implementación en entornos educativos. Para la RA, se destaca la necesidad de una planificación cuidadosa, estrategias pedagógicas adecuadas y un entorno educativo que respalde su uso efectivo. En el caso de la RV, se resalta la importancia de consideraciones de seguridad, especialmente en el uso prolongado por parte de niños en crecimiento, así como mejoras en la comodidad y accesibilidad de los dispositivos.
 
 En conjunto, la RA y la RV se perfilan como herramientas valiosas que, si se implementan estratégicamente y se abordan los desafíos correspondientes, pueden potenciar significativamente la motivación, participación y comprensión de los estudiantes, enriqueciendo así la educación del siglo XXI.
+
+\end{multicols}
 
 # Bibliografía
